@@ -50,5 +50,6 @@ Git | GitHub | MySQL
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN  
+LinkedIn: https://www.linkedin.com/in/prathammewara  
 GitHub: https://github.com/mewara54321
+Email: prathammewara7773@gmail.com
