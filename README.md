@@ -1,57 +1,77 @@
-# Hi, I'm Pratham Mewara 👋
+# 👋 Hi, I'm Pratham Mewara
 
-📊 **Data Analyst | SQL | Python | Data Analytics**
+**Data Analyst | Business Intelligence | Product & Growth Analytics**
 
-I enjoy building data systems, performing exploratory data analysis, and transforming raw datasets into actionable insights that support data-driven decision making.
-
-Currently interested in:
-- Data Analytics
-- SQL & Database Systems
-- Business Intelligence
-- Data-driven decision making
+I specialize in transforming raw data into **actionable business insights**. With hands-on experience in building **end-to-end analytics solutions**, I focus on solving real-world problems using data-driven decision making.
 
 ---
 
-## 📊 Featured Projects
+## 🚀 About Me
 
-### 📦 Inventory Management & Supply Chain Dashboard
-A database-driven inventory management system that simulates real-world supply chain workflows and stock lifecycle operations.
-
-**Tech Stack:** MySQL | Python | Streamlit | SQL | Stored Procedures | Transaction Management  
-
-🔗 https://github.com/mewara54321/inventory-management-supply-chain-dashboard
-
----
-
-### 🧬 Global Cancer Analytics
-Exploratory data analysis and statistical investigation on a global cancer dataset to understand factors affecting cancer severity, survival outcomes, and treatment costs.
-
-**Tech Stack:** Python | Pandas | NumPy | Seaborn | Matplotlib | Statistical Analysis  
-
-🔗 https://github.com/mewara54321/global-cancer-analytics
+* 🔍 Currently working on **end-to-end analytics & dashboarding projects**
+* 📊 Strong focus on **Business Intelligence, Data Modeling & Insights Generation**
+* 🌱 Continuously learning **Advanced SQL, Product Analytics & Cloud (AWS)**
+* 💡 Interested in solving **business problems using data storytelling**
+* 🎯 Targeting roles in **Data Analytics / Business Analytics (Bangalore & Gurugram)**
 
 ---
 
-## 🛠 Skills
+## 🧠 Core Skills
 
-**Languages**  
-SQL | Python
+**Languages & Tools:**
+`SQL` | `Python` | `Pandas` | `NumPy` | `Power BI` | `Excel`
 
-**Data Analysis**  
-Pandas | NumPy | Exploratory Data Analysis (EDA) | Hypothesis Testing | Statistical Analysis
+**Analytics & BI:**
+Data Modeling | KPI Tracking | Dashboard Design | Data Cleaning | EDA
 
-**Data Visualization**  
-Matplotlib | Seaborn | Streamlit
-
-**Tools & Technologies**  
-Git | GitHub | MySQL
+**Advanced Concepts:**
+ETL Pipelines | API Data Extraction | Statistical Analysis | Regression | A/B Thinking
 
 ---
 
-## 🌐 Connect With Me
+## 📊 Featured Project
 
-LinkedIn: https://www.linkedin.com/in/prathammewara 
+### 🌍 Global Analytics Dashboard (World Bank Data)
 
-GitHub: https://github.com/mewara54321
+**Tech Stack:** Python | REST API | Pandas | Power BI | Seaborn
 
-Email: prathammewara7773@gmail.com
+* Built an **end-to-end data pipeline** using World Bank APIs (29,000+ indicators, 200+ countries)
+* Designed **ETL workflows** to clean, transform, and structure large-scale global datasets
+* Developed an **interactive Power BI dashboard** for KPI tracking & cross-country comparisons
+* Performed **correlation & regression analysis** to uncover relationships between health, economy & technology
+
+**Key Insights:**
+
+* Healthcare spending impacts life expectancy, but efficiency varies by region
+* Strong link between **internet penetration & immunization rates**
+* Uneven global economic growth across regions
+* Trade-offs observed between **economic growth & environmental sustainability**
+
+🔗 *Project Repo:* [https://github.com/mewara54321/world-bank-global-indicators-analytics]
+
+---
+
+## 📈 GitHub Stats
+
+![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/prathammewara
+* 📧 Email: [prathammewara7773@gmail.com](mailto:prathammewara7773@gmail.com)
+* 💻 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+## ⚡ What Sets Me Apart
+
+✔️ Business-first approach to analytics
+✔️ Strong focus on **impact, not just dashboards**
+✔️ Experience handling **real-world messy data**
+✔️ Ability to translate insights into **actionable decisions**
+
+---
+
+⭐ *Open to opportunities in Data Analytics / Business Analytics*
