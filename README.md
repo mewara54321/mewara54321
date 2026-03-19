@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mewara54321&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 # 👋 Hi, I'm Pratham Mewara
 
 **Data Analyst | Business Intelligence | Product & Growth Analytics**
@@ -25,7 +28,7 @@ I specialize in transforming raw data into **actionable business insights**. Wit
 Data Modeling | KPI Tracking | Dashboard Design | Data Cleaning | EDA
 
 **Advanced Concepts:**
-ETL Pipelines | API Data Extraction | Statistical Analysis | Regression | A/B Thinking
+ETL Pipelines | API Data Extraction | Statistical Analysis | Regression | A/B Testing
 
 ---
 
@@ -47,13 +50,15 @@ ETL Pipelines | API Data Extraction | Statistical Analysis | Regression | A/B Th
 * Uneven global economic growth across regions
 * Trade-offs observed between **economic growth & environmental sustainability**
 
-🔗 *Project Repo:* [https://github.com/mewara54321/world-bank-global-indicators-analytics]
+🔗 Project Repo: https://github.com/mewara54321/world-bank-global-indicators-analytics
 
 ---
 
 ## 📈 GitHub Stats
 
-![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=mewara54321\&show_icons=true\&theme=tokyonight\&count_private=true\&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewara54321\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -61,7 +66,7 @@ ETL Pipelines | API Data Extraction | Statistical Analysis | Regression | A/B Th
 
 * 💼 LinkedIn: https://linkedin.com/in/prathammewara
 * 📧 Email: [prathammewara7773@gmail.com](mailto:prathammewara7773@gmail.com)
-* 💻 GitHub: https://github.com/YOUR_USERNAME
+* 💻 GitHub: https://github.com/mewara54321
 
 ---
 
